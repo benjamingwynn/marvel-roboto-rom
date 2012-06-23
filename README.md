@@ -1,4 +1,8 @@
 marvel-roboto-rom
 =================
 
-A all new ROM for the MARVEL. Cooked not compiled ;)
+Roboto one
+
+Welcome to Roboto :D
+
+This Readme isn't complete yet so you should hop over to rom information for any needed information on the ROM.
